@@ -1,0 +1,15 @@
+{
+  "name": "signalk-net-adsb-plugin",
+  "version": "1.0.0",
+  "description": "ADS-B traffic information gathered from an readsb instance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "signalk-node-server-plugin"
+  ],
+  "repository": "https://github.com/mhaberler/signalk-net-adsb-plugin",
+  "author": "Michael Haberler",
+  "license": "MIT"
+}
